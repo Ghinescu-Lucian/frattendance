@@ -25,7 +25,7 @@ const LoginPage: React.FC = () => {
       <form onSubmit={handleSubmit}>
         <div style={{ marginBottom: '1rem' }}>
           <label>
-            Username:
+            Username123:
             <input
               type="text"
               value={username}
